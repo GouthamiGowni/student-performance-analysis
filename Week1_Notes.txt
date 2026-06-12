@@ -1,0 +1,32 @@
+Project: Student Performance Analysis
+
+Week 1 Notes
+
+Dataset:
+- UCI Student Performance Dataset
+- Files reviewed:
+  - student-mat.csv
+  - student-por.csv
+
+Tools Setup:
+- Python installed
+- Tableau Public installed
+- UCI dataset downloaded
+
+Features Explored:
+- Student demographics (age, sex, address)
+- Family background (Medu, Fedu, famsize)
+- Study habits (studytime)
+- Academic performance (G1, G2, G3)
+- Attendance (absences)
+- Academic support (schoolsup, famsup)
+
+Key Observations:
+- Dataset contains 395 student records.
+- G1, G2, and G3 represent student grades.
+- Study time, failures, and absences may impact final performance.
+
+Next Steps:
+- Perform exploratory data analysis (EDA)
+- Create SQL queries
+- Build Tableau dashboard
